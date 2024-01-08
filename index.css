@@ -1,0 +1,560 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.ctecont {
+    background-color: #008B8B;
+    color: black;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.bi {
+    font-size: 25px;
+}
+
+.darkimg {
+    height: 50px;
+    width: 50px;
+
+}
+
+.detail-item {
+    color: black;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.ctecardstyle {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.bg-container {
+    background-size: auto;
+    text-align: center;
+}
+
+.navbar-toggler {
+    color: pink;
+    background-color: pink;
+
+}
+
+.last1 {
+    text-align: center;
+}
+
+.card1 {
+    border-radius: 10px;
+    background-size: auto;
+    background-color: #4682B4;
+    margin: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.syllpara {
+    font-family: "roboto";
+    font-size: 30px;
+}
+
+.syllabus {
+    padding: 20px;
+}
+
+.syllcont {
+    text-align: center;
+    padding: 10px;
+}
+
+.body {
+    background: #dfe9f5;
+}
+
+.xyz {
+    color: white;
+}
+
+.wrapper {
+    background-color: black;
+    text-align: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.wrapper1 {
+    background-color: black;
+    text-align: center;
+    height: 100vh;
+    padding: 20px;
+
+}
+
+form input {
+    width: 85%;
+    outline: none;
+    border: none;
+    background: #dfe9f5;
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.recover {
+    text-align: right;
+    font-size: 0.8rem;
+    margin: 0.2rem 1.7rem 0 0;
+}
+
+.recover a {
+    text-decoration: none;
+    color: #07001f;
+}
+
+.button {
+    background-size: cover;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    padding: 8px 0;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: 85%;
+    background: tomato;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+}
+
+.button:hover {
+    background: rgba(122, 30, 30, 0.767);
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+
+}
+
+.or {
+    font-size: 0.8rem;
+    margin-top: 1.5rem;
+}
+
+.icons i {
+    color: #07001f;
+    padding: 00.8rem 1.5rem;
+    border-radius: 10px;
+    margin-left: .9rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    border: 2px solid #dfe9f5;
+}
+
+.icons i:hover {
+    color: #fff !important;
+    background: #07001f;
+    transition: 1s;
+}
+
+.icons i:first-child {
+    color: green;
+}
+
+.icons i:last-child {
+    color: blue;
+}
+
+.not-member {
+    font-size: 0.8rem;
+    margin-top: 1.4rem;
+}
+
+.not-member a {
+    color: tomato;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.d-block {
+    height: 80vh;
+    border-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.carousel-inner {
+    height: 60vh;
+}
+
+.carousel-item {
+    height: 60vh;
+}
+
+.detail-item {
+    color: #5e03fc;
+    font-family: "roboto";
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.navbar-image {
+    width: 80px;
+    height: 50px;
+    padding: 5px;
+}
+
+.parag {
+    color: #428af5;
+    text-align: center;
+}
+
+.parag1 {
+    color: #f56642;
+    text-align: center;
+}
+
+.c {
+    padding: 10px;
+    text-align: center;
+}
+
+.head1 {
+    color: #f19116;
+    font-family: "Bree Serif";
+
+}
+
+.abc {
+    text-align: center;
+}
+
+.flat-card {
+    height: 100vh;
+    background-size: cover;
+    background-color: black;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+#section001 {
+    margin-top: 0%;
+}
+
+.card21 {
+    text-align: center;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+    background-size: cover;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.flat-cardm {
+    background-size: cover;
+    text-align: center;
+    background-color: lightpink;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.flat-card2 {
+    height: 100vh;
+    background-size: cover;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.flat-card1 {
+    display: inline-block;
+    background-size: cover;
+    color: #008080;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.nml {
+    background-size: cover;
+    display: inline-block;
+}
+
+.card {
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.flat-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+}
+
+.flat-heading1 {
+    font-family: "roboto";
+    color: pink;
+    text-align: center;
+}
+
+.paragraph1 {
+
+    font-family: "Bree Serif";
+    padding: 15px;
+    font-size: 18px;
+}
+
+.paragraph {
+    color: #222222;
+    font-family: "Bree Serif";
+    padding: 15px;
+    font-size: 18px;
+}
+
+.paragraph9 {
+    color: #222222;
+    font-family: "Bree Serif";
+    padding: 15px;
+    font-size: 30px;
+}
+
+.button {
+    background-color: #f19116;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    margin: 20px;
+    background-size: auto;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+}
+
+.button12 {
+    background-color: #f19116;
+    border-radius: 5px;
+    border-width: 0px;
+    text-align: center;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    margin: 20px;
+    background-size: auto;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+}
+
+.button-container {
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+}
+
+.button1 {
+    background-color: #00b4d8;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    background-size: auto;
+    height: 40px;
+    width: 100px;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+}
+
+.abc {
+    text-align: center;
+}
+
+.button21 {
+    background-color: #428af5;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: "Bree Serif";
+    background-size: auto;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+
+}
+
+.button2 {
+    background-color: #cdb4db;
+    border-radius: 5px;
+    border-width: 0px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    background-size: auto;
+    height: 40px;
+    width: 100px;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 20);
+}
+
+.second-flat-container {
+    color: #222222;
+    height: 100vh;
+    width: 40vh;
+    background-size: auto;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.card {
+    border-radius: 10px;
+    background-size: auto;
+    background-color: #ffffff;
+    margin: 15px;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #222222;
+    padding: 15px;
+    font-size: 20px;
+    background-size: cover;
+}
+
+.second-heading {
+    font-family: "Bree Serif";
+    color: #f19116;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.aboutapp {
+    background-color: pink;
+    height: 100vh;
+}
+
+.flat-second-container {
+    text-align: center;
+    padding: 20px;
+    background-size: auto;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+
+}
+
+.image {
+    background-size: cover;
+    width: 25vh;
+}
+
+.last-top-container {
+    background-image: url('https://st.depositphotos.com/2726735/3290/i/600/depositphotos_32905831-stock-photo-computer-keyboard-background.jpg');
+    height: 50vh;
+    background-size: auto;
+    text-align: center;
+}
+
+.lasts {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    margin: auto;
+}
+
+.lasts1 {
+    text-align: center;
+    background-size: auto;
+    width: 100%;
+    height: 100%;
+
+}
+
+.icon {
+    height: 3vh;
+    width: 3vh;
+    margin: 8px;
+    text-decoration: underline;
+}
+
+.prize {
+    color: #f19116;
+    font-family: "Bree Serif";
+
+    font-size: 20px;
+}
+
+.last-bottom-container {
+    height: 50vh;
+    background-size: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.paragraph1 {
+    color: #ffffff;
+
+}
+
+.cont {
+    height: 1vh;
+    background-size: auto;
+    background-color: #33ccff;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+
+.conference-image {
+    height: 50vw;
+
+}
+
+.abc {
+    background-size: auto;
+}
+
+.conference-text-container {
+    text-align: center;
+    padding: 22px;
+
+
+}
+
+.conference-title {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.conference-discription {
+    font-family: "roboto";
+    font-size: 15px;
+    padding: 10px;
+}
+
+.conference-details-title {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "roboto";
+}
+
+.conference-details-description {
+    ;
+    font-family: "roboto";
+    font-size: 15px;
+}
+
+.conference-stats-container {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(39, 245, 178, 0.8);
+}
+
+.conference-stats-counts {
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.conference-stats-label {
+    font-family: "roboto";
+    font-size: 16px;
+}
